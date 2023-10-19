@@ -35,7 +35,7 @@ New to open source? No worries!
 1. **Fork this repository.**
 2. **Clone your forked repository to your local machine.**
 3. **Create a new branch for your contribution.**
-4. **Add your C program or make changes.**
+4. **Add your Python program or make changes.**
 5. **Commit your changes with clear comments.**
 6. **Push your changes to your forked repository.**
 7. **Submit a pull request.**
